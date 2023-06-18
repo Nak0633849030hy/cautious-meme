@@ -42,6 +42,9 @@ a{
     color: white;
 
 }
-div{
-    background-clip: border-box;
-}
+div {
+    border: 10px dotted white;
+    padding: 15px;
+    background: lightblue;
+    background-clip: padding-box;
+  }
